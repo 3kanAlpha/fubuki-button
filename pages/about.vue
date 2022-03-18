@@ -9,7 +9,7 @@
 </template>
 <script>
 import about_zh from '../README.md';
-import about_en from '../README.EN.md';
+import about_en from '../README.md';
 import about_ja from '../README.JA.md';
 export default {
   computed: {
@@ -20,7 +20,7 @@ export default {
         case 'en':
           return about_en;
         default:
-          return about_zh;
+          return about_en;
       }
     }
   },
