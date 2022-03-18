@@ -1,6 +1,7 @@
 # フブキボタン - 白上フブキのボイスボタン
 
 ![Version](https://img.shields.io/github/package-json/v/3kanAlpha/fubuki-button)
+![Build](https://img.shields.io/github/workflow/status/3kanAlpha/fubuki-button/Build)
 ![Last commit](https://img.shields.io/github/last-commit/3kanAlpha/fubuki-button)
 ![Stars](https://img.shields.io/github/stars/3kanAlpha/fubuki-button)
 
@@ -64,6 +65,7 @@ README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.
 
 - [孤独のイオン](https://github.com/lonelyion)
 - [Asrui Morus](https://github.com/Morxi)
+- [まぐ](https://github.com/3kanAlpha)
 
 オーディオクリップ：
 
@@ -90,7 +92,7 @@ README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.
 - Bilibili [亡音ちゃん](https://space.bilibili.com/2613724)
 - そして、GitHubでこのプロジェクトに参加した以下の人々
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=voosc/fubuki-button)](https://github.com/voosc/fubuki-button/graphs/contributors)
+[![GitHub Contributors](https://contrib.rocks/image?repo=3kanAlpha/fubuki-button)](https://github.com/voosc/fubuki-button/graphs/contributors)
 
 ## LICENCE
 

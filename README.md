@@ -1,12 +1,15 @@
 # Fubuki-Button - Shirakami Fubuki's Voice Button
 
 ![Version](https://img.shields.io/github/package-json/v/3kanAlpha/fubuki-button)
+![Build](https://img.shields.io/github/workflow/status/3kanAlpha/fubuki-button/Build)
 ![Last commit](https://img.shields.io/github/last-commit/3kanAlpha/fubuki-button)
 ![Stars](https://img.shields.io/github/stars/3kanAlpha/fubuki-button)
 
 README: **English** | [日本語](https://github.com/3kanAlpha/fubuki-button/blob/master/README.JA.md)
 
 > Brand new voice buttons for Shirakami Fubuki, we are aimming at building a comprehensive project related to Shirakami Fubuki.
+
+**This project was originally developed by lonelyion, not me.**
 
 Project Homepage: https://fubuki.moe
 
@@ -66,6 +69,7 @@ Development:
 
 - [Lonely Ion](https://github.com/lonelyion)
 - [Asrui Morus](https://github.com/Morxi)
+- [m4gnett](https://github.com/3kanAlpha)
 
 Audio Editors:
 
@@ -92,7 +96,7 @@ Special Thanks to:
 - Bilibili [亡音ちゃん](https://space.bilibili.com/2613724)
 - And those who contributed to this project on GitHub
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=voosc/fubuki-button)](https://github.com/voosc/fubuki-button/graphs/contributors)
+[![GitHub Contributors](https://contrib.rocks/image?repo=3kanAlpha/fubuki-button)](https://github.com/voosc/fubuki-button/graphs/contributors)
 
 ## LICENCE
 
