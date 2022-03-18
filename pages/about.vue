@@ -8,7 +8,6 @@
   </v-layout>
 </template>
 <script>
-import about_zh from '../README.md';
 import about_en from '../README.md';
 import about_ja from '../README.JA.md';
 export default {
