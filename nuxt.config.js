@@ -3,7 +3,6 @@ import colors from 'vuetify/es5/util/colors';
 const is_production = process.env.NODE_ENV === 'production';
 
 export default {
-  mode: 'universal',
   target: 'static',
   server: {
     port: 3000, // default: 3000
@@ -30,14 +29,14 @@ export default {
       },
       { hid: 'og:site_name', property: 'og:site_name', content: 'フブキボタン' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://fubuki.moe' },
+      { hid: 'og:url', property: 'og:url', content: 'https://fubuki.mgcup.net' },
       { hid: 'og:title', property: 'og:title', content: 'フブキボタン' },
       {
         hid: 'og:description',
         property: 'og:description',
         content: '新しい白上フブキのボイスボタン。私たちの目標は白上フブキの総合的なファンサイトを作ることです。'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://fubuki.moe/img/og_common.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://fubuki.mgcup.net/img/og_common.jpg' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@lonely_ion' }
     ],
@@ -109,7 +108,7 @@ export default {
     workbox: {
       runtimeCaching: [
         {
-          urlPattern: 'https://cdn.jsdelivr.net/gh/voosc/fubuki-button@master/static/voices/*'
+          urlPattern: 'https://cdn.jsdelivr.net/gh/3kanAlpha/fubuki-button@master/static/voices/*'
         },
         {
           urlPattern: 'https://emoji.lonelyion.com/svg/*'
@@ -126,7 +125,7 @@ export default {
   },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://fubuki.moe',
+    hostname: 'https://fubuki.mgcup.net',
     routes: [
       {
         url: '/',
