@@ -1,11 +1,10 @@
 # フブキボタン - 白上フブキのボイスボタン
 
-![Version](https://img.shields.io/github/package-json/v/voosc/fubuki-button)
-![Build](https://img.shields.io/github/workflow/status/voosc/fubuki-button/FBK-BTN-NG-CI)
-![Last Commit](https://img.shields.io/github/last-commit/voosc/fubuki-button)
-![Stars](https://img.shields.io/github/stars/voosc/fubuki-button)
+![Version](https://img.shields.io/github/package-json/v/3kanAlpha/fubuki-button)
+![Last commit](https://img.shields.io/github/last-commit/3kanAlpha/fubuki-button)
+![Stars](https://img.shields.io/github/stars/3kanAlpha/fubuki-button)
 
-README: [中文](https://github.com/voosc/fubuki-button/blob/master/README.md) | **日本語** | [English](https://github.com/voosc/fubuki-button/blob/master/README.EN.md)
+README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.md) | **日本語**
 
 > 新しい白上フブキのボイスボタン。白上フブキの総合ファンページを目指します。
 
@@ -19,15 +18,15 @@ README: [中文](https://github.com/voosc/fubuki-button/blob/master/README.md) |
 
 ## 計画中の機能
 
-- 使用TypeScript / Vue 3.x重构项目，至少包含现有全部的功能
+- プロジェクト全体をTypeScript / Vue 3.x環境に移行する
 - 进一步抽象出配置文件，方便其他按钮移植和维护
 - 增加音频管理后端、用户收藏等
 
 ## このプロジェクトへの貢献(コントリビュート)
 
-GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([voice@fubuki.moe](mailto:voice@fubuki.moe))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。
+~~GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([voice@fubuki.moe](mailto:voice@fubuki.moe))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。~~
 
-もしくは素材や意見をGitHubの[Issues](https://github.com/voosc/fubuki-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
+もしくは素材や意見をGitHubの[Issues](https://github.com/3kanAlpha/fubuki-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
 
 もしGitHubでの開発方法を知っている場合は、プロジェクトをフォークして変更してください。変更が完了したら、プルリクエストしてください。各項目の編集に関しては以下に記述されています。
 
@@ -35,7 +34,7 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 音声データはmp3のビットレート128Kbpsで統一し、`static/voices/`に保存してください。対応するURLは`/voices/`に入れてください。
 
-すべての音声データのメタデータは`assets/voices.json`に追加または修正をしてください。
+すべての音声データのメタデータは`assets/voices.json`に追加、または修正をしてください。
 
 音声を変更する場合は変更後に変更前のファイルを削除してください。音声ファイルは，必ず過去を含め現在のファイル名と同じものであってはなりません。
 
@@ -55,7 +54,7 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 ローカル開発環境をデプロイするためには、まず最新版のNodeとYarnをインストールしてください。その後、以下の手順に従ってください。
 
  1. コードをforkしてクローンする。
- 2. コードディレクトリに移動し、yarnを実行して依存関係をインストールする。
+ 2. コードディレクトリに移動し、`yarn`を実行して依存関係をインストールする。
  3. `yarn dev`を実行し、`localhost:3000`でローカル開発サーバーを起動する。ローカル開発サーバーでは、変更した結果をすぐに反映させることが可能です。
  4. デプロイ用ファイルをコンパイルするためには、`yarn generae`を実行して`dist`ディレクトリを生成してください。このサイトは完全に静的なので、distディレクトリ全体を直接デプロイすることができます。
 
@@ -95,7 +94,7 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 ## LICENCE
 
-プログラム： [MIT License](https://github.com/voosc/fubuki-button/blob/master/LICENSE)
+プログラム： [MIT License](https://github.com/3kanAlpha/fubuki-button/blob/master/LICENSE)
 
 音声: [Hololive 二次创作条款](https://www.hololive.tv/terms)
 
