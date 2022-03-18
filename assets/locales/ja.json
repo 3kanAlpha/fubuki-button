@@ -3,28 +3,28 @@
     "title": "フブキボタン",
     "description": "新しい白上フブキのボイスボタン。私たちの目標は白上フブキの総合的なファンサイトを作ることです。",
     "index": "ホームページ",
-    "links": "友情リンク",
-    "about": "について",
+    "links": "リンク",
+    "about": "このサイトについて",
     "switch_dark_mode": "ナイトモードスイッチ",
     "switch_language": "言語を切り替える",
     "footer": {
       "lonely_ion": "孤独のイオン",
       "oruyanke": "おるやんけ組",
-      "content": "このサイトはファン作品であり、公式とは関係ありません。STAFFリストとプロジェクト参加方式は「について」ページをご覧ください。"
+      "content": "このサイトはファン作品であり、公式とは関係ありません。スタッフリストとプロジェクト参加方式は「このサイトについて」ページをご覧ください。"
     }
   },
   "live": {
     "activity": "ライブ ストリーム",
     "schedule": "予定",
     "on_air": "ライブ配信中",
-    "loading": "生放送で取得中···",
-    "no_schedule": "まだ計画中の生放送は発見されていません。",
+    "loading": "生放送を取得中···",
+    "no_schedule": "予定されている生放送はありません。",
     "notification": "日本語から中国語へのビデオ翻訳と校正を募集しています。詳細は[team@fubuki.moe](mailto:team@fubuki.moe)までお問い合わせください。"
   },
   "control": {
     "self": "コントロール",
     "pick_one": "ランダム再生",
-    "stop": "再生停止",
+    "stop": "停止",
     "enabled": "有効",
     "disabled": "無効",
     "overlap": "音声を重ねる",
