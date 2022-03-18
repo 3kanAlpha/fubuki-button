@@ -140,7 +140,7 @@
             </span>
             <v-btn
               icon
-              href="https://github.com/voosc/fubuki-button"
+              href="https://github.com/3kanAlpha/fubuki-button"
               target="_blank"
               style="vertical-align: middle;"
               rel="noreferrer"

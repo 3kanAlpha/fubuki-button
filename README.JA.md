@@ -9,7 +9,7 @@ README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.
 
 > 新しい白上フブキのボイスボタン。白上フブキの総合ファンページを目指します。
 
-ホームページ https://fubuki.moe
+ホームページ https://fubuki.mgcup.net
 
 関連リンク:
 

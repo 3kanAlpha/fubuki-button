@@ -389,7 +389,7 @@ export default {
   head() {
     return {
       title: this.$t('site.title') + '(^・ω・^§)ﾉ',
-      link: [{ rel: 'canonical', href: 'https://fubuki.moe' }]
+      link: [{ rel: 'canonical', href: 'https://fubuki.mgcup.net' }]
     };
   }
 };

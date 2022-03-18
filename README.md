@@ -11,7 +11,7 @@ README: **English** | [日本語](https://github.com/3kanAlpha/fubuki-button/blo
 
 **This project was originally developed by lonelyion, not me.**
 
-Project Homepage: https://fubuki.moe
+Project Homepage: https://fubuki.mgcup.net
 
 Related Links:
 
@@ -106,7 +106,7 @@ Other parts: [MIT License](https://github.com/3kanAlpha/fubuki-button/blob/maste
 
 This project is a work of enthusiasts and is not related to the Hololive official.
 
-## 支持
+## Support
 
 ### BrowserStack
 
