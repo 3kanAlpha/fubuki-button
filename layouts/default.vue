@@ -221,7 +221,7 @@ a {
   padding-bottom: 150px;
 }
 .footer {
-  margin-top: -100px;
+  margin-top: 0px;
 }
 </style>
 
