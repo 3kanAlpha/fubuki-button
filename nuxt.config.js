@@ -38,7 +38,7 @@ export default {
       },
       { hid: 'og:image', property: 'og:image', content: 'https://fubuki.mgcup.net/img/og_common.jpg' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:site', content: '@lonely_ion' }
+      { name: 'twitter:site', content: '@luigi_0829_2' }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
