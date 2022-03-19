@@ -9,6 +9,9 @@ README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.
 
 > 新しい白上フブキのボイスボタン。白上フブキの総合ファンページを目指します。
 
+**このプロジェクトは元々lonelyion氏によるもので、私のものではありません。**  
+**私が中国語を話せないため、現在テキストの中国語への翻訳などは行っておりません。**
+
 ホームページ https://fubuki.mgcup.net
 
 関連リンク:
@@ -33,7 +36,7 @@ README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.
 
 ### 音声の追加または修正
 
-音声データはmp3のビットレート128Kbpsで統一し、`static/voices/`に保存してください。対応するURLは`/voices/`に入れてください。
+音声データはビットレート128Kbpsのmp3で統一し、`static/voices/`に保存してください。対応するURLは`/voices/`です。
 
 すべての音声データのメタデータは`assets/voices.json`に追加、または修正をしてください。
 
@@ -98,7 +101,7 @@ README: [English](https://github.com/3kanAlpha/fubuki-button/blob/master/README.
 
 プログラム： [MIT License](https://github.com/3kanAlpha/fubuki-button/blob/master/LICENSE)
 
-音声: [Hololive 二次创作条款](https://www.hololive.tv/terms)
+音声: [Hololive 二次創作ガイドライン](https://www.hololive.tv/terms)
 
 このプロジェクトはファンによるもので、Hololive公式は一切関係ありません
 
