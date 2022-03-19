@@ -9,7 +9,8 @@ README: **English** | [日本語](https://github.com/3kanAlpha/fubuki-button/blo
 
 > Brand new voice buttons for Shirakami Fubuki, we are aimming at building a comprehensive project related to Shirakami Fubuki.
 
-**This project was originally developed by lonelyion, not me.**
+**This project was originally developed by lonelyion, not me.**  
+**I cannot speak Chinese, so some of texts are currently not available in Chinese.**
 
 Project Homepage: https://fubuki.mgcup.net
 
