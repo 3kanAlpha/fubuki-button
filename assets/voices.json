@@ -1215,7 +1215,7 @@
           "description": {
             "zh": "帮大忙了",
             "en": "Helped a lot",
-            "ja": "たすかる　たすかる"
+            "ja": "たすかる　ラスカル"
           }
         },
         {
@@ -1224,7 +1224,16 @@
           "description": {
             "zh": "啊救我",
             "en": "Ah help me!",
-            "ja": "あっ　だすけて"
+            "ja": "あ～　だすけて"
+          }
+        },
+        {
+          "name": "f-200",
+          "path": "f-200.mp3",
+          "description": {
+            "zh": "Good night (whispering)",
+            "en": "Good night (whispering)",
+            "ja": "おやすみなさい（ささやき）"
           }
         }
       ]
