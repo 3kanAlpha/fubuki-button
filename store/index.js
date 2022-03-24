@@ -1,6 +1,6 @@
 export const state = () => ({
   locales: ['en', 'ja', 'zh'],
-  locale: 'zh',
+  locale: 'ja',
   dark: false
 });
 
